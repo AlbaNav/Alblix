@@ -1,0 +1,18 @@
+.film {
+  margin-left: 10px;
+
+  h2 {
+    padding: 6px;
+  }
+
+  .film-gallery {
+    display: flex;
+    flex-direction: row;
+
+    img {
+      padding: 12px;
+      width: 300px;
+      height:400px;
+    }
+  }
+}
